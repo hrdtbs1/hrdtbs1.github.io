@@ -10,6 +10,11 @@ Institute of Science Tokyo<br>
 School of Computing, Graduate Major in Mathematical and Computing Science<br>
 PhD student supervised by Associate Professor [Hanna Sumita](https://alg.c.titech.ac.jp/sumita/)
 
+[researchmap](https://researchmap.jp/tharada-?lang=en)<br>
+orcid: [0000-0001-8101-4153](https://orcid.org/0000-0001-8101-4153)
+
+Contact: harada dot t dot 30af at m dot isct dot ac dot jp (eplace dot and at properly)
+
 ## Research Interest
 
 * Theoretical Computer Science
