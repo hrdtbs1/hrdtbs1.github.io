@@ -27,4 +27,19 @@ layout: none
 * Tsubasa Harada and Toshiya Itoh, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, ICALP2025. [link](https://doi.org/10.4230/LIPIcs.ICALP.2025.94)
 * Tsubasa Harada, Shinji Ito and Hanna Sumita, Bandit Max-Min Fair Allocation, ECMLPKDD2025. [link](https://doi.org/10.1007/978-3-032-06078-5_22)
 
+## プレプリント
+
+* Tsubasa Harada, A Lower Bound on the Competitive Ratio of the Permutation Algorithm for Online Facility Assignment on a Line. 2024. [link](https://doi.org/10.48550/ARXIV.2402.12734) 
+* Tsubasa Harada, Yasushi Kawase and Hanna Sumita, Online Algorithms for Repeated Optimal Stopping: Balancing Baseline Guarantees and Regret, 2025. [link](https://doi.org/10.48550/arXiv.2511.04484)
+
+## 書籍
+
+* Tsubasa Harada, Toshiya Itoh, Shigeo Matsubara, Shuichi Miyazaki and Makoto Yokoo, Mechanism Design for Mobility, Advanced Mathematical Science for Mobility Society, Springer Nature Singapore, 2024. [link](https://doi.org/10.1007/978-981-99-9772-5)
+
+## 国内学会
+
+## 共同研究・競争的資金等の研究課題
+
+* 日本学術振興会特別研究員 (DC2) 「繰り返しオンライン最適化問題に対する競合比及びリグレットを両立するアルゴリズム」2026/04-.
+
 
