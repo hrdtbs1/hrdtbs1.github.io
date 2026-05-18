@@ -10,6 +10,8 @@ layout: none
 博士後期課程3年<br>
 [澄田研究室](https://alg.c.titech.ac.jp/index.html)
 
+[researchmap](https://researchmap.jp/tharada-?lang=ja)<br>
+orcid: [0000-0001-8101-4153](https://orcid.org/0000-0001-8101-4153)
 
 ## 研究分野
 
