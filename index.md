@@ -1,7 +1,3 @@
----
-layout: none
----
-
 # test 3
 
 [en](/en/)
