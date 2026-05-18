@@ -13,7 +13,7 @@ PhD student supervised by Associate Professor [Hanna Sumita](https://alg.c.titec
 [researchmap](https://researchmap.jp/tharada-?lang=en)<br>
 orcid: [0000-0001-8101-4153](https://orcid.org/0000-0001-8101-4153)
 
-Contact: harada dot t dot 30af at m dot isct dot ac dot jp (eplace dot and at properly)
+Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at properly)
 
 ## Research Interest
 
