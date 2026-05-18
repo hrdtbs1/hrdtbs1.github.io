@@ -6,8 +6,8 @@ layout: none
 
 [日本語](\)
 
-Institute of Science Tokyo
-School of Computing, Graduate Major in Mathematical and Computing Science
+Institute of Science Tokyo<br>
+School of Computing, Graduate Major in Mathematical and Computing Science<br>
 PhD student supervised by Associate Professor [Hanna Sumita](https://alg.c.titech.ac.jp/sumita/)
 
 ## Research Interest
