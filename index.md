@@ -6,7 +6,8 @@ layout: none
 
 [en](/en/)
 
-東京科学大学（旧　東京工業大学） 情報理工学院　数理・計算科学コース　[澄田研究室](https://alg.c.titech.ac.jp/index.html)
+東京科学大学（旧　東京工業大学） 情報理工学院　数理・計算科学コース
+[澄田研究室](https://alg.c.titech.ac.jp/index.html)
 博士後期課程3年
 
 ## 研究分野
