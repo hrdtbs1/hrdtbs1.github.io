@@ -15,7 +15,7 @@ orcid: [0000-0001-8101-4153](https://orcid.org/0000-0001-8101-4153)
 
 Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at properly)
 
-## Research Interest
+## Research Areas
 
 * Theoretical Computer Science
 * Discrete Mathematics
@@ -26,21 +26,21 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 
 ## Papers
 
-* Tsubasa Harada and Toshiya Itoh, Online Facility Assignment for General Layout of Servers on a Line, COCOA2023. [link](https://doi.org/10.1007/978-3-031-49614-1_23)
-* Tsubasa Harada, Toshiya Itoh and Shuichi Miyazaki, Capacity-insensitive algorithms for online facility assignment problems on a line, Discrete Mathematics, Algorithms and Applications, 2024. [link](https://doi.org/10.1142/s179383092350057x)
-* Tsubasa Harada and Toshiya Itoh, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, ICALP2025. [link](https://doi.org/10.4230/LIPIcs.ICALP.2025.94)
 * Tsubasa Harada, Shinji Ito and Hanna Sumita, Bandit Max-Min Fair Allocation, ECMLPKDD2025. [link](https://doi.org/10.1007/978-3-032-06078-5_22)
+* Tsubasa Harada and Toshiya Itoh, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, ICALP2025. [link](https://doi.org/10.4230/LIPIcs.ICALP.2025.94)
+* Tsubasa Harada, Toshiya Itoh and Shuichi Miyazaki, Capacity-insensitive algorithms for online facility assignment problems on a line, Discrete Mathematics, Algorithms and Applications, 2024. [link](https://doi.org/10.1142/s179383092350057x)
+* Tsubasa Harada and Toshiya Itoh, Online Facility Assignment for General Layout of Servers on a Line, COCOA2023. [link](https://doi.org/10.1007/978-3-031-49614-1_23)
 
 ## Preprints
 
-* Tsubasa Harada, A Lower Bound on the Competitive Ratio of the Permutation Algorithm for Online Facility Assignment on a Line. 2024. [link](https://doi.org/10.48550/ARXIV.2402.12734) 
 * Tsubasa Harada, Yasushi Kawase and Hanna Sumita, Online Algorithms for Repeated Optimal Stopping: Balancing Baseline Guarantees and Regret, 2025. [link](https://doi.org/10.48550/arXiv.2511.04484)
+* Tsubasa Harada, A Lower Bound on the Competitive Ratio of the Permutation Algorithm for Online Facility Assignment on a Line. 2024. [link](https://doi.org/10.48550/ARXIV.2402.12734) 
 
 ## Books
 
 * Tsubasa Harada, Toshiya Itoh, Shigeo Matsubara, Shuichi Miyazaki and Makoto Yokoo, Mechanism Design for Mobility, Advanced Mathematical Science for Mobility Society, Springer Nature Singapore, 2024. [link](https://doi.org/10.1007/978-981-99-9772-5)
 
-## Domestic Conference (Japanese)
+## Domestic Conferences (Japanese)
 
 * 原田翼，オンライン輸送問題に対するほぼ最善な決定的アルゴリズム，最適化の理論とアルゴリズム：未来を担う若手研究者の集い2025 2025年6月1日．
 * 原田翼，竹村慧，松岡達也，確率的に拡張された敵対的環境におけるオンライン劣モジュラ最小化，2025年度人工知能学会全国大会（第39回） 2025年5月27日．
