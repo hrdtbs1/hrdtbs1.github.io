@@ -13,6 +13,8 @@ layout: none
 [researchmap](https://researchmap.jp/tharada-?lang=ja)<br>
 orcid: [0000-0001-8101-4153](https://orcid.org/0000-0001-8101-4153)
 
+連絡先: harada dot t dot 30af at m dot isct dot ac dot jp (dot と at を適切に読み替えてください)
+
 ## 研究分野
 
 * 理論計算機科学 
