@@ -61,6 +61,6 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 
 ## Grants
 
-* JSPS Research Fellowship for Young Scientists (DC2) Apr, 2026.
+* JSPS Research Fellowship for Young Scientists (DC2) Apr, 2026 - Present.
 
 
