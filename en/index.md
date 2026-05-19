@@ -57,7 +57,7 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 ## Awards
 
 * **JSAI Annual Conference Award**, Online Submodular Minimization for the Stochastically Extended Adversarial Model, The Japanese Society for Artificial Intelligence, Aug, 2025. 
-* **Best Presentation Award**, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, The Operations Research Society of Japan，Jun, 2025．
+* **Best Presentation Award**, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, The Operations Research Society of Japan, Jun, 2025．
 
 ## Grants
 
