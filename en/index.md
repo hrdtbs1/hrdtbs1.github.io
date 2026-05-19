@@ -48,11 +48,19 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 * 原田翼，直線上のオンライン施設割当て問題に対する施設容量に依存しない最適なアルゴリズム，最適化の理論とアルゴリズム：未来を担う若手研究者の集い2024 2024年5月19日．
 * 原田翼，伊藤伸志，竹村慧，組み合わせセミバンディット問題における報酬関数および組合せ制約とリグレット上界の関係性について，第26回情報論的学習理論ワークショップ 2023年10月31日．
 
+## Education
+
+* **Ph.D. Student**, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Apr, 2024 – Present
+* **M.S.**, Tokyo Institute of Technology, Apr, 2022 – Mar, 2024
+* **B.S.**, Tokyo Institute of Technology, Apr, 2018 – Mar, 2022
+
 ## Awards
 
-* JSAI Annual Conference Award, Online Submodular Minimization for the Stochastically Extended Adversarial Model, The Japanese Society for Artificial Intelligence, Aug, 2025. 
-* 最優秀発表賞, オンライン輸送問題に対するほぼ最善な決定的アルゴリズム, 日本オペレーションズ・リサーチ学会，2025年6月．
+* **JSAI Annual Conference Award**, Online Submodular Minimization for the Stochastically Extended Adversarial Model, The Japanese Society for Artificial Intelligence, Aug, 2025. 
+* **Best Presentation Award**, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, The Operations Research Society of Japan，Jun, 2025．
 
 ## Grants
 
 * JSPS Research Fellowship for Young Scientists (DC2) Apr, 2026.
+
+
