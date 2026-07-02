@@ -2,8 +2,6 @@
 layout: none
 ---
 
-<meta name="google-site-verification" content="1efG8MP2FKX_ZXtRrV54vN42atqDcZ8gd2vNbCbu8Ek" />
-
 # 原田翼
 
 [English](/en/)
