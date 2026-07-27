@@ -51,11 +51,12 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 ## Education
 
 * **Ph.D. Student**, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Apr, 2024 – Present
-* **M.S.**, Tokyo Institute of Technology, Apr, 2022 – Mar, 2024
-* **B.S.**, Tokyo Institute of Technology, Apr, 2018 – Mar, 2022
+* **M.S.**, Tokyo Institute of Technology, Apr, 2022 - Mar, 2024
+* **B.S.**, Tokyo Institute of Technology, Apr, 2018 - Mar, 2022
 
-## Awards
+## Awards and Honors
 
+* **Full Loan Repayment Exemption for Outstanding Academic Achievement (JASSO First-Type Scholarship)**, Japan Student Services Organization (JASSO), Jul, 2026.
 * **JSAI Annual Conference Award**, Online Submodular Minimization for the Stochastically Extended Adversarial Model, The Japanese Society for Artificial Intelligence, Aug, 2025. 
 * **Best Presentation Award**, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, The Operations Research Society of Japan, Jun, 2025．
 
