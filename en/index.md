@@ -2,7 +2,7 @@
 layout: none
 ---
 
-# Tsubasa Harada
+# Tsubasa Harada (原田 翼)
 
 [日本語](\)
 
