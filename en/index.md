@@ -33,6 +33,7 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 
 ## Preprints
 
+* Tsubasa Harada, Yasushi Kawase and Hanna Sumita, Simultaneous Competitive and Regret Guarantees for TCP Acknowledgment, 2026. [link](https://arxiv.org/abs/2610.13571)
 * Tsubasa Harada, Yasushi Kawase and Hanna Sumita, Online Algorithms for Repeated Optimal Stopping: Balancing Baseline Guarantees and Regret, 2025. [link](https://doi.org/10.48550/arXiv.2511.04484)
 * Tsubasa Harada, A Lower Bound on the Competitive Ratio of the Permutation Algorithm for Online Facility Assignment on a Line. 2024. [link](https://doi.org/10.48550/ARXIV.2402.12734) 
 
