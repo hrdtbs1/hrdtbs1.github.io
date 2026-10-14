@@ -29,6 +29,7 @@ orcid: [0000-0001-8101-4153](https://orcid.org/0000-0001-8101-4153)
 
 ## 論文
 
+* Tsubasa Harada and Toshiya Itoh, Near-Optimal Deterministic Online Transportation, ACM Transactions on Algorithms (TALG), to appear.
 * Tsubasa Harada, Shinji Ito and Hanna Sumita, Bandit Max-Min Fair Allocation, ECMLPKDD2025. [link](https://doi.org/10.1007/978-3-032-06078-5_22)
 * Tsubasa Harada and Toshiya Itoh, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, ICALP2025. [link](https://doi.org/10.4230/LIPIcs.ICALP.2025.94)
 * Tsubasa Harada, Toshiya Itoh and Shuichi Miyazaki, Capacity-insensitive algorithms for online facility assignment problems on a line, Discrete Mathematics, Algorithms and Applications, 2024. [link](https://doi.org/10.1142/s179383092350057x)
