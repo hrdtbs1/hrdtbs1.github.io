@@ -55,9 +55,9 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 
 ## Education
 
-* **Ph.D. Student**, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Apr, 2024 – Present
-* **M.S.**, Tokyo Institute of Technology, Apr, 2022 - Mar, 2024
-* **B.S.**, Tokyo Institute of Technology, Apr, 2018 - Mar, 2022
+* **Ph.D. Student**, Institute of Science Tokyo (Supervisor: Associate Professor Hanna Sumita), Apr, 2024 – Present
+* **M.S.**, Tokyo Institute of Technology (Supervisor: Professor Toshiya Itoh), Apr, 2022 - Mar, 2024
+* **B.S.**, Tokyo Institute of Technology (Supervisor: Professor Toshiya Itoh), Apr, 2018 - Mar, 2022
 
 ## Awards and Honors
 
