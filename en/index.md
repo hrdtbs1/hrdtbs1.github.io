@@ -26,7 +26,7 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 
 ## Papers
 
-* Tsubasa Harada and Toshiya Itoh, Near-Optimal Deterministic Online Transportation, ACM Transactions on Algorithms (TALG), to appear.
+* Tsubasa Harada and Toshiya Itoh, Near-Optimal Deterministic Online Transportation, ACM Transactions on Algorithms (TALG), 2026. [link](https://dl.acm.org/doi/10.1145/3859481)
 * Tsubasa Harada, Shinji Ito and Hanna Sumita, Bandit Max-Min Fair Allocation, ECMLPKDD2025. [link](https://doi.org/10.1007/978-3-032-06078-5_22)
 * Tsubasa Harada and Toshiya Itoh, A Nearly Optimal Deterministic Algorithm for Online Transportation Problem, ICALP2025. [link](https://doi.org/10.4230/LIPIcs.ICALP.2025.94)
 * Tsubasa Harada, Toshiya Itoh and Shuichi Miyazaki, Capacity-insensitive algorithms for online facility assignment problems on a line, Discrete Mathematics, Algorithms and Applications, 2024. [link](https://doi.org/10.1142/s179383092350057x)
@@ -34,6 +34,8 @@ Contact: harada dot t dot 30af at m dot isct dot ac dot jp (replace dot and at p
 
 ## Preprints
 
+* Tsubasa Harada, Online Metric Matching with Unknown i.i.d. Arrivals, 2026. [link](https://arxiv.org/abs/2611.04275)
+* Tsubasa Harada, Yasushi Kawase and Hanna Sumita, Beyond Monotonicity: Stochastic Online Optimization under Semi-Bandit Feedback, 2026. [link](https://arxiv.org/abs/2611.02739)
 * Tsubasa Harada, Yasushi Kawase and Hanna Sumita, Simultaneous Competitive and Regret Guarantees for TCP Acknowledgment, 2026. [link](https://arxiv.org/abs/2610.13571)
 * Tsubasa Harada, Yasushi Kawase and Hanna Sumita, Online Algorithms for Repeated Optimal Stopping: Balancing Baseline Guarantees and Regret, 2025. [link](https://doi.org/10.48550/arXiv.2511.04484)
 * Tsubasa Harada, A Lower Bound on the Competitive Ratio of the Permutation Algorithm for Online Facility Assignment on a Line. 2024. [link](https://doi.org/10.48550/ARXIV.2402.12734) 
